@@ -5,7 +5,7 @@
 
 ![](./src/assets/test-car.jpg)
 
-### [Test Registration](https://react-js-github-user-search.netlify.app/) 🔗
+### [Test Registration](https://react-js-test-registration.netlify.app/) 🔗
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
