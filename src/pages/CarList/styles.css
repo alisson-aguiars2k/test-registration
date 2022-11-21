@@ -1,0 +1,87 @@
+.tableHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+.tableHeaderLeft{
+    font-weight: bold;
+    font-size: 16px;
+    color: #005aa7;
+}
+.tableHeaderRight {
+    color: #b8860b;
+}
+
+.carItem {
+    display: flex;
+    background: #005aa7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #fff,
+    #005aa7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #fff,
+    #005aa7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    padding: 10px;
+    margin: 10px 0px
+}
+.column {
+    flex: 1;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.brand {
+    width: 50px;
+    flex: none;
+    padding: 0 10px;
+}
+.brand img {
+    width: 100%;
+}
+.model {
+    flex: 1.5;
+    font-weight: bold;
+    color: #fff;
+}
+.year{
+    color: #fff;
+    font-weight: bold;
+}
+.km {
+    color: #aa0000;
+}
+.price {
+    font-weight: bold;
+    color: green;
+}
+.options {
+    flex: none;
+    width: 50px;
+
+
+}
+
+.pointWindow {
+    position: absolute;
+    width: 70px;
+    margin-left: -60px;
+    background-color: #fff;
+    margin: 0px 30px;
+    border-radius: 50%;
+}
+.pointWindowBtn {
+    padding: 10px 20px;
+    color: #005aa7;
+    cursor: pointer;
+}
+.pointWindowBtn:hover {
+    color: #b8860b;
+}

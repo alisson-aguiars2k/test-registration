@@ -1,0 +1,46 @@
+* {
+  font-family: Rubik, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+
+.container {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  border-radius: 4px;
+  border: 0;
+  background: #005aa7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #fff,
+    #005aa7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #fff,
+    #005aa7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff;
+  color: #fff;
+  font-size: 14px;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  
+}
+.button.full {
+  width: 100%;
+}
+.button:hover {
+  opacity: .9;
+}
+.button:disabled {
+  opacity: .3;
+}
