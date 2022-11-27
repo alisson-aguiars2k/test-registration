@@ -3,7 +3,7 @@
 
 ## Cadastrar carros de vários modelos. 🚀 💻 📚
 
-### [Test Registration](https://react-js-github-user-search.netlify.app/) 🔗
+### [Test Registration](https://react-js-test-registration.netlify.app/) 🔗
 
 ![](./src/assets/test-car.jpg)
 ![](./src/assets/test-car2.jpg)
