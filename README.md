@@ -1,4 +1,4 @@
-# Test Registration !  🚘 🚞
+# Test Registration!  🚘 🚞
 <br>
 
 ## Cadastrar carros de vários modelos. 🚀 💻 📚
