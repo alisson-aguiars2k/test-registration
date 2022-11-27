@@ -3,9 +3,13 @@
 
 ## Cadastrar carros de vários modelos. 🚀 💻 📚
 
-![](./src/assets/test-car.jpg)
-
 ### [Test Registration](https://react-js-github-user-search.netlify.app/) 🔗
+
+![](./src/assets/test-car.jpg)
+![](./src/assets/test-car2.jpg)
+![](./src/assets/test-car4.jpg)
+
+
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
@@ -21,12 +25,14 @@
 - Cadastrar carros ;
 - Edita infomacões ;
 - Excluir infomacões ;
-- Testes Unitários;
-- Testes Integração;
 ## O código foi desenvolvido usando os conceitos ; 
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - API local ;
 - As rotas foram criadas com React Router Dom 6.
+- Testes Unitários;
+- Testes Integração;
+- Resposividade
+- Clean Code
 ## A estilização ; 
 - Styled Components; 
 ## Dependencias ; 
